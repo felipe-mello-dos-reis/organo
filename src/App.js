@@ -92,6 +92,7 @@ function App() {
         nome={departamento.nome}
         corSecundaria={departamento.corSecundaria}
         corPrimaria={departamento.corPrimaria}
+        nomeDepartamento={departamento.nome}
         docentes={docentes.filter(docente => docente.departamento === departamento.nome)}
       />)}
     </div>
