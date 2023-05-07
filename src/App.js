@@ -59,7 +59,7 @@ function App() {
 
     { nome: 'Eduardo Moraes Arrau', imagem: 'http://www.civil.ita.br/pessoal/colaboradores/arraut.jpg', area: 'Modelagem ambiental', departamento: 'Departamento de Recursos Hídricos e Saneamento Ambiental'},
     { nome: 'Marcio Antonio da Silva Pimentel ', imagem: 'http://www.civil.ita.br/pessoal/colaboradores/marcio.jpg', area: 'Instalações Prediais e Saneamento', departamento: 'Departamento de Recursos Hídricos e Saneamento Ambiental'},
-    { nome: 'Roberto Gonçalves de Carvalho', imagem: 'http://www.civil.ita.br/pessoal/colaboradores/roberto.jpg', area: 'Hidráulica', departamento: 'Departamento de Recursos Hídricos e Saneamento Ambiental'},
+    { nome: 'Roberto Gonçalves de Carvalho', imagem: 'https://uploaddeimagens.com.br/images/004/456/984/full/roberto.jpg?1683497466', area: 'Hidráulica', departamento: 'Departamento de Recursos Hídricos e Saneamento Ambiental'},
     { nome: 'Wilson Cabral de Sousa Júnior', imagem: 'http://www.civil.ita.br/pessoal/colaboradores/wilson.jpg', area: 'Meio ambiente', departamento: 'Departamento de Recursos Hídricos e Saneamento Ambiental'},
 
     { nome: 'Alessandro Vinícius Marques de Oliveira', imagem: 'http://www.civil.ita.br/pessoal/colaboradores/alessandro.jpg', area: 'Economia e Econometria do Transporte Aéreo', departamento: 'Departamento de Transporte Aéreo'},
